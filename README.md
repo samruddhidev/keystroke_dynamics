@@ -305,52 +305,6 @@ The system can be further improved by implementing:
 
 ---
 
-## 📸 Screenshots
-
-### Login Interface
-
-Add your GUI screenshot here:
-
-```markdown
-![Login Interface](screenshots/login.png)
-```
-
-### Authentication Result
-
-Add your authentication result screenshot here:
-
-```markdown
-![Authentication Result](screenshots/authentication.png)
-```
-
----
-
-## 🎓 Learning Outcomes
-
-After completing this project, the following concepts were understood:
-
-1. Principles of behavioral biometric authentication.
-2. Working of keystroke dynamics.
-3. Extraction of dwell time and flight time.
-4. Analysis of typing speed and total typing time.
-5. Development of a GUI-based authentication system using Python.
-6. Storage and comparison of behavioral user profiles.
-7. Application of behavioral biometrics in cybersecurity.
-
----
-
-## 📚 References
-
-1. Kevin S. Killourhy and Roy A. Maxion, *Comparing Anomaly-Detection Algorithms for Keystroke Dynamics*, IEEE/IFIP DSN, 2009.
-2. Python Documentation
-3. Pandas Documentation
-4. NumPy Documentation
-5. Scikit-learn Documentation
-6. NIST Computer Security Resource Center
-7. Kaggle Keystroke Dynamics Datasets
-
----
-
 ## 👩‍💻 Author
 
 **Samruddhi Jain**
