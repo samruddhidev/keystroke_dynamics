@@ -1,6 +1,3 @@
-# keystroke_dynamics
-Behavioral biometric authentication using keystroke dynamics, built with Python and Tkinter.
-
 # 🔐 Keystroke Dynamics Authentication System
 
 A Python-based user authentication system that uses **Keystroke Dynamics** to verify users based on their unique typing behavior.
