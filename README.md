@@ -130,24 +130,6 @@ The dark interface provides a simple and modern cybersecurity-style appearance.
 
 ---
 
-## 📂 Project Structure
-
-```text
-Keystroke-Dynamics-Authentication/
-│
-├── app.py
-├── users.csv
-├── README.md
-├── requirements.txt
-└── screenshots/
-    ├── login.png
-    └── authentication.png
-```
-
-> `users.csv` is automatically created when the application is executed.
-
----
-
 ## ⚙️ Installation
 
 ### 1. Clone the Repository
